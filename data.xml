@@ -1,0 +1,17 @@
+<notebooks>
+  <notebook>
+    <name>Ноутбук Asus VivoBook RZ540MA-GQ008</name>
+    <shortname>asus</shortname>
+    <bio>Екран 15.6 (1366x768) HD, матовий / Intel Celeron N4000 (1.1 - 2.6 ГГц) / RAM 4 ГБ / HDD 500 ГБ / Intel UHD Graphics 600 / без ОД / Wi-Fi / Bluetooth / веб-камера / Endless OS / 1.9 кг / темно-коричневий</bio>
+  </notebook>
+  <notebook>
+    <name>Ноутбук HP Notebook 15-db0227ur</name>
+    <shortname>hp</shortname>
+    <bio>Екран 15.6 (1920x1080) Full HD, глянсовий з антивідблисковим покриттям / AMD A6-9225 (2.6 - 3.0 ГГц) / RAM 4 ГБ / HDD 500 ГБ / AMD Radeon R4 / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / DOS / 2.04 кг / червоний</bio>
+  </notebook>
+  <notebook>
+    <name>Ноутбук Acer Aspire 3 A315-32</name>
+    <shortname>acer</shortname>
+    <bio>Екран 15.6 (1920x1080) Full HD, матовий / Intel Pentium Silver N5000 (1.1 - 2.7 ГГц) / RAM 8 ГБ / HDD 1 ТБ / Intel UHD Graphics 605 / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / Linux / 2.1 кг / червоний</bio>
+  </notebook>
+</notebooks>
